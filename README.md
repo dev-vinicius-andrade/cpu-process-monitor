@@ -6,14 +6,15 @@ It's not beautiful, it's not optimized, but for me it's working so far.
 Maybe in the future I will improve it, but for now it's enough.
 
 ## How to use
-1. Download the latest release from the [releases page]()
-2. Open your desidered process as usal
-3. Open the app **"Cpu.Monitor.App.exe"**
-4. Select the process you want to monitor
-	4.1. If your process is not listed, you can refresh the list by clicking the "Refresh" button
-5. Set the CPU usage limit
-6. Set the interval time to check the CPU usage
-7. Click in "Monitor" button
+1. Download the latest release from the [releases page](https://github.com/dev-vinicius-andrade/cpu-process-monitor/releases)
+2. Unzip it to a desired location
+3. Open your desidered process as usal
+4. Open the app **"Cpu.Monitor.App.exe"**
+5. Select the process you want to monitor
+	6.1. If your process is not listed, you can refresh the list by clicking the "Refresh" button
+7. Set the CPU usage limit
+8. Set the interval time to check the CPU usage
+9. Click in "Monitor" button
 
 That's it.
  
