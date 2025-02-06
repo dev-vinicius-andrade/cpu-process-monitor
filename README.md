@@ -18,3 +18,8 @@ Maybe in the future I will improve it, but for now it's enough.
 
 That's it.
  
+
+
+# Problems
+
+Let me know if have any problems or suggestions. I will be glad to help you.
