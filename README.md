@@ -8,7 +8,7 @@ Maybe in the future I will improve it, but for now it's enough.
 ## How to use
 1. Download the latest release from the [releases page]()
 2. Open your desidered process as usal
-3. Open the app
+3. Open the app **"Cpu.Monitor.App.exe"**
 4. Select the process you want to monitor
 	4.1. If your process is not listed, you can refresh the list by clicking the "Refresh" button
 5. Set the CPU usage limit
